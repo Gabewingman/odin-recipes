@@ -1,0 +1,11 @@
+h1 {
+    font-family: sans-serif;
+    font-size: x-large;
+    background: black;
+    color: white;
+    padding-left: 10px;
+}
+
+a {
+    font-family: cursive;
+}
