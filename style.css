@@ -1,15 +1,18 @@
-body {
-    background: rgba(255,252,127,1);
-}
-
 h1 {
     font-family: sans-serif;
     font-size: x-large;
-    background: rgba(241,214,147,1);
-    color: black;
-    padding-left: 10px;
+    border: 1px solid;
+    padding: 20px 8px;
+    text-align: center;
+    margin: 20px 300px;
+    background: #fff4bc;
 }
 
-a {
-    font-family: sans-serif;
+#recipes {
+    border: 1px solid;
+    text-align: center;
+    padding: 50px;
+    margin: 20px 300px;
+    background: #fff4bc;
 }
+
